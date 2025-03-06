@@ -6,7 +6,7 @@
 - Group: [Link](t.me/KeoAirDropFreeNe)
 - Channel: [Link](t.me/KeoAirDropFreeNee)
 
-> > > Help me with your referral [Link](https://t.me/ackinacki_bot/ackinacki_app?startapp=eyJyZWZlcnJlciI6ImFpcmxpbmVyOSIsIndoYWxlcyI6dHJ1ZX0)
+> > > Help me with your referral [Link](https://t.me/ackinacki_bot/ackinacki_app?startapp=eyJyZWZlcnJlciI6ImFpcmxpbmVyOSIsIndoYWxlcyI6dHJ1ZX0) | [Web version](https://t.ackinacki.com/?startapp=eyJyZWZlcnJlciI6ImFpcmxpbmVyOSJ9)
 
 ## 🚀 Getting Started
 
@@ -50,6 +50,8 @@ ey...
 
 ### 3. `wallets.txt` 💼 - Cannot update yet.
 
+- Wallets generator: [Link](https://github.com/MeoMunDep/Automatic-Ultimate-Create-Wallets-for-Airdrop)
+
 ```txt - wallet address
 abc...xyz
 abc...xyz
@@ -68,6 +70,6 @@ socks5://user:password@host:port
 💡 Usage:
 
 > You need to `cd` to the file after extract it
-> To run the bot, use the following command: `node 1`
+> To run the bot, use the following command: `node telegram_meomundep` or `node web_meomundep`
 
 🎇Enjoy!
