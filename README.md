@@ -32,12 +32,15 @@ To get started with the bot, follow these steps:
 
 ```json
 {
-  "limit": 100,
-  "countdown": 300,
-  "country_time": "en-US",
-  "delayEachAccount": [1, 81]
+  "timeZone": "en-US",
+  "rotateProxy": false,
+  "skipInvalidProxy": true,
+  "proxyRotationInterval": 2,
+  "delayEachAccount": [1, 1],
+  "timeToRestartAllAccounts": 300,
+  "howManyAccountsRunInOneTime": 10,
+  "doTasks": true
 }
-
 ```
 
 ### 2. `datas.txt` 🗂️ - Get it from here: https://t.me/KeoAirDropFreeNee/1538
