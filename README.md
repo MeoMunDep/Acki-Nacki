@@ -40,7 +40,7 @@ To get started with the bot, follow these steps:
 
 ```
 
-### 2. `datas.txt` 🗂️ -
+### 2. `datas.txt` 🗂️ - Get it from here: https://t.me/KeoAirDropFreeNee/1538
 
 ```txt
 ey...
