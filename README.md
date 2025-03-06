@@ -45,6 +45,8 @@ To get started with the bot, follow these steps:
 
 ### 2. `datas.txt` 🗂️ - Get it from here: https://t.me/KeoAirDropFreeNee/1538
 
+- Data for web version.
+
 ```txt
 ey...
 ey...
@@ -71,6 +73,6 @@ socks5://user:password@host:port
 💡 Usage:
 
 > You need to `cd` to the file after extract it
-> To run the bot, use the following command: `node 1`
+> To run the bot, use the following command: `node web_meomundep` or `node meomundep`
 
 🎇Enjoy!
