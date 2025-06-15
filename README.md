@@ -32,7 +32,6 @@ To get started with the bot, follow these steps:
 
 ```json
 {
-  "timeZone": "en-US",
   "rotateProxy": false,
   "skipInvalidProxy": true,
   "proxyRotationInterval": 2,
