@@ -33,6 +33,7 @@ To get started with the bot, follow these steps:
 ```json
 {
   "rotateProxy": false,
+  "upgradeMamaboard": true,
   "skipInvalidProxy": true,
   "proxyRotationInterval": 2,
   "delayEachAccount": [1, 1],
