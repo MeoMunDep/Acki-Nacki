@@ -30,12 +30,15 @@ fi
 create_default_configs() {
     cat > configs.json << EOL
 {
-  "limit": 100,
-  "countdown": 300,
-  "country_time": "en-US",
-  "delayEachAccount": [1, 81]
+  "rotateProxy": false,
+  "upgradeMamaboard": true,
+  "skipInvalidProxy": true,
+  "proxyRotationInterval": 2,
+  "delayEachAccount": [1, 1],
+  "timeToRestartAllAccounts": 300,
+  "howManyAccountsRunInOneTime": 10,
+  "doTasks": true
 }
-
 EOL
 }
 
