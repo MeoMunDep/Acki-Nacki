@@ -1,5 +1,6 @@
 {
   "rotateProxy": false,
+  "upgradeMamaboard": true,
   "skipInvalidProxy": true,
   "proxyRotationInterval": 2,
   "delayEachAccount": [1, 1],
