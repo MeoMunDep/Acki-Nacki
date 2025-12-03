@@ -18,7 +18,7 @@ To get started with the bot, follow these steps:
 1. **Install Dependencies and Modules:**
 
    ```
-   npm i user-agents cloudscraper axios meo-forkcy-colors meo-forkcy-utils meo-forkcy-logger meo-forkcy-proxy
+   npm i user-agents axios meo-forkcy-colors meo-forkcy-utils meo-forkcy-logger meo-forkcy-proxy
    ```
 
 2. **Prepare Configuration Files:**
