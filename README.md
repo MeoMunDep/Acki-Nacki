@@ -1,12 +1,11 @@
 📞 Contact
-
-> If you encounter any issues or have questions, feel free to reach out:
+ If you encounter any issues or have questions, feel free to reach out:
 
 - Contact: [Link](t.me/MeoMunDep)
 - Group: [Link](t.me/KeoAirDropFreeNe)
 - Channel: [Link](t.me/KeoAirDropFreeNee)
 
-> > > Help me with your referral [Link](https://t.me/ackinacki_bot/ackinacki_app?startapp=eyJyZWZlcnJlciI6ImFpcmxpbmVyOSIsIndoYWxlcyI6dHJ1ZX0)
+Help me with your referral [Link](https://t.me/ackinacki_bot/ackinacki_app?startapp=eyJyZWZlcnJlciI6ImFpcmxpbmVyOSIsIndoYWxlcyI6dHJ1ZX0)
 
 ## 🚀 Getting Started
 
